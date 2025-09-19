@@ -10,7 +10,7 @@ function Pricing() {
         {
             title: "Pro",
             price: 19,
-            features: ["All Free features", "Advanced feature 1", "Priority support"],
+            features: ["All Free plan features", "Advanced feature 1", "Priority support"],
             highlight: true,
         },
         {
